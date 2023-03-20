@@ -45,6 +45,16 @@
     "src": "coding-mobile.Cidade_do_Recife-main/AppImages/android/android-launchericon-512-512.png",
     "sizes": "512x512",
     "type": "image/png"
+  },
+  {
+    "src": "coding-mobile.Cidade_do_Recife-main/assets/AppIcons/Assets.xcassets/AppIcon.appiconset/_/50.png",
+    "sizes": "50x50",
+    "type": "image/png"
+  },
+  {
+    "src": "coding-mobile.Cidade_do_Recife-main/assets/AppIcons/Assets.xcassets/AppIcon.appiconset/_/512.png",
+    "sizes": "512x512",
+    "type": "image/png"
   }],
   "shortcuts": [],
   "lang": "pt",
