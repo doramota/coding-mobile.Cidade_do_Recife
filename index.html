@@ -19,17 +19,7 @@
 		<script src="../pwabuilder-sw.js"></script>
 	</head>
 	<body class="is-preload homepage">
-		<script>
-			if ('serviceWorker' in navigator) {
-				navigator.serviceWorker.register('pwabuilder-sw.js')
-				.then(function () {
-					console.log('service worker registered');
-				})
-				.catch(function() {
-					console.warn('service worker failed');
-				});
-			}
-		</script>
+		
 		
 		<div id="page-wrapper">
 
