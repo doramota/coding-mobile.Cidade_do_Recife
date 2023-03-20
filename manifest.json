@@ -5,9 +5,9 @@
   "display": "standalone",
   "name": "cidadedorecife",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "/index.html",
   "short_name": "cddrec",
-  "start_url": "/",
+  "start_url": "/index.html",
   "theme_color": "#ffffff",
   "categories": [
     "social",
@@ -49,11 +49,6 @@
   {
     "src": "coding-mobile.Cidade_do_Recife-main/assets/AppIcons/Assets.xcassets/AppIcon.appiconset/_/50.png",
     "sizes": "50x50",
-    "type": "image/png"
-  },
-  {
-    "src": "coding-mobile.Cidade_do_Recife-main/assets/AppIcons/Assets.xcassets/AppIcon.appiconset/_/512.png",
-    "sizes": "180x180",
     "type": "image/png"
   },
   {
